@@ -1,7 +1,3 @@
 <?php
-echo "
-Moi -
-Hei -
-Heipsuli Hei -
-";
+    echo "<p> Moi - Hei - Heipsuli Hei - </p>";
 ?>
