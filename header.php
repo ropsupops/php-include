@@ -1,3 +1,3 @@
 <?php
-    echo "<p> Moi - Hei - Heipsuli Hei - </p>";
+    echo "<p> Tämä on header </p>";
 ?>

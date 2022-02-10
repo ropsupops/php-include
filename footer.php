@@ -1,3 +1,3 @@
 <?php
-    echo "<p> Hello - Hi - How's it going! - </p>";
+    echo "<p> Tämä on footer </p>";
 ?>
